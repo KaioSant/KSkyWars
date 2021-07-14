@@ -1,0 +1,15 @@
+name: KSkyWars
+main: SkyWars\Main
+api:
+  - 2.0.0
+author: 'Kaio Santos'
+commands:
+  skywars:
+    description: 'Comando para ver os comandos do SkyWars'
+    aliases: [sw]
+    permission: sw.use
+
+permissions:
+  sw.use:
+    description: 'Comando para ver os comandos do SkyWars'
+    default: true

@@ -12,6 +12,13 @@
 ### status
 > devolpment ⚠️
 
+### Permissions
+- sw.use
+- sw.info
+- sw.match
+- sw.match.exit
+- sw.operator
+
 # About the plugin
 ### Versions and System
 System | Versions | 

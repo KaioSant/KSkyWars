@@ -1,7 +1,7 @@
 # KSkyWars
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KaioSant)](https://github.com/KaioSant)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Burgues_K)](https://twitter.com/_Burgues_K))
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Burgues_K)](https://twitter.com/_Burgues_K)
 
 ## about the plugin
 ##### the plugin was created by kaio santos and dayvid developer, in order to improve the quality of skywars servers.
@@ -12,9 +12,6 @@
 ### status
 > devolpment ⚠️
 
-* Item 1
-* Item 2
-* Item 3
 # About the plugin
 ### Versions and System
 System | Versions | 

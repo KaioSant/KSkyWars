@@ -36,6 +36,7 @@ class Main extends PluginBase implements Listener{
         @mkdir($this->getDataFolder());
         $this->kits = new Config($this->getDataFolder(), 'kits.yml' . CONFIG::YAML);
         $this->sw->save();
+        Server::getInstance()->getCommandMap()->register('skywars', new SWCommands($this));
     }
     public function onLoad(){
     }

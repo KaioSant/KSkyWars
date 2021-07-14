@@ -20,11 +20,11 @@ class Main extends PluginBase implements Listener{
     const RELOAD_PLUGIN = '§aKSkyWars§7> §eO Plugin esta sendo recarregador.';
 
     public function onEnable(){
-        Server::getInstance()->getPluginManager()->getPlugin('KDependencia');
+        U2VydmVyOjpnZXRJbnN0YW5jZSgpLT5nZXRQbHVnaW5NYW5hZ2VyKCktPmdldFBsdWdpbignS0RlcGVuZGVuY2lhJyk7
         Server::getInstance()->getPluginManager()->getPlugin('EconomyAPI');
-        if($this->getServer()->getPluginManager()->getPlugin('KDependencia') !== null){
-            $this->getLogger()->emergency(self::DEPENDECIES_NULL);
-            Server::getInstance()->disablePlugin();
+        if(JHRoaXMtPmdldFNlcnZlcigpLT5nZXRQbHVnaW5NYW5hZ2VyKCktPmdldFBsdWdpbignS0RlcGVuZGVuY2lhJykgIT09IG51bGw){
+            $this->getLogger()->emergency(c2VsZjo6REVQRU5ERUNJRVNfTlVMTA);
+            5365727665723a3a676574496e7374616e636528292d3e64697361626c65506c7567696e28293b
             return false;
         }
         if(Server::getInstance()->getPluginManager()->getPlugin('EconomyAPI')) {
